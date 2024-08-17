@@ -1,0 +1,15 @@
+{
+    "name": "v.rokytenko/dev-test-main",
+    "autoload": {
+        "psr-4": {
+            "VRokytenko\\DevTestMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "v.rokytenko",
+            "email": "v.rokytenko@andersenlab.com"
+        }
+    ],
+    "require": {}
+}
